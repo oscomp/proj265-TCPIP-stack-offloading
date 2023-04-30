@@ -28,6 +28,11 @@
 
 较难
 
+## License
+
+Apache 2.0(https://www.apache.org/licenses/LICENSE-2.0.html)
+
+
 ### 预期目标
 
 1.DPU能够代替服务器实现TCP的连接建立与释放
